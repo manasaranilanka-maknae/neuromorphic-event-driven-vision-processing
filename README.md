@@ -26,7 +26,8 @@ The project was developed to explore event-driven vision techniques and demonstr
 6. Bounding boxes are drawn around detected motion and the processed output is displayed in real time.
 ---
 ## Future Improvements
-- Support multiple camera inputs.
-- Integrate AI-based object detection and classification.
-- Deploy the system on edge devices such as Raspberry Pi or NVIDIA Jetson.
-- Integrate with real-time monitoring and alert systems.
+- Integrate AI-based object detection and classification for intelligent scene understanding.
+- Deploy the system on edge devices such as Raspberry Pi or NVIDIA Jetson for portable real-time monitoring.
+- Extend the system for robotics and autonomous navigation by enabling efficient real-time motion perception.
+- Explore defense and surveillance applications where event-driven motion detection can assist in monitoring subtle movements with reduced computational overhead.
+- Integrate with real-time alert and monitoring systems for security applications.
